@@ -120,7 +120,9 @@ python main.py
 
 - 💻 AI Desktop App Projects
 
+# Output of the Chatbot
 
+![Screenshot 2025-06-09 234610](https://github.com/user-attachments/assets/1abcb899-61fa-4555-8fd0-9f63245975c1)
 
 
 
